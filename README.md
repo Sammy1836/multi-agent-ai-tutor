@@ -71,10 +71,10 @@ ai-agents/
     *Note: The specific environment variables required will depend on the `google-adk` and `google-generativeai` libraries' authentication mechanisms.*
 
 ## Running the Application
-    ```bash
-    adk web # For running the application in a UI provided by adk
-    adk run # For running the application in the terminal
-    ```
+```bash
+adk web # For running the application in a UI provided by adk
+adk run # For running the application in the terminal
+```
 
 ## Agent Details
 
